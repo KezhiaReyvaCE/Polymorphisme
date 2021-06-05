@@ -20,3 +20,9 @@ Output setelah method dikosongkan
 ![Output setelah method kosong](https://user-images.githubusercontent.com/85090045/120888558-11387600-c623-11eb-863f-8b938fd8a31c.png)
 Output setelah method dihapus
 ![Output setelah method dihapus](https://user-images.githubusercontent.com/85090045/120888565-1a294780-c623-11eb-8ed7-3e8fce7e256e.png)
+
+
+LATIHAN 3
+
+Output
+![Output Lthn 3](https://user-images.githubusercontent.com/85090045/120888677-d420b380-c623-11eb-86ca-ef95dbf783ef.png)
