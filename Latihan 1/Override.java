@@ -9,15 +9,16 @@
  * @author MOKLET-2
  */
 public class AeroPlan extends Vehicle{
-    @Override
-    public void fuel(){
-        System.out.println("fuels");
-    }
     
+   
     public void walk (){
         System.out.println("Aeroplan is flying");
         }
     
+    @Override
+    public void fuel(){
+        System.out.println("Fuels");
+    }
     public static void main (String []args){
         AeroPlan garuda = new AeroPlan();
         garuda.function();
