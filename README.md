@@ -32,3 +32,10 @@ LATIHAN 4
 
 Output
 ![Output Lthn 4](https://user-images.githubusercontent.com/85090045/120889477-99b91580-c627-11eb-99c2-c0ab22baa06d.png)
+
+
+TUGAS PRAKTIKUM
+
+Output
+![Output Tugas Praktikum](https://user-images.githubusercontent.com/85090045/120890620-3979a200-c62e-11eb-99c0-b687f24634f0.png)
+
