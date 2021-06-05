@@ -10,18 +10,18 @@
  */
 public class UjiProgram {
     public static void main(String[] args) {
-        Line deku = new Line(3, -2, 4, 4);
-        Line yagi = new Line (8, 3, -4, 8);
+        Line deku = new Line(113, -112, 114, 114);
+        Line yagi = new Line (150, -100, 100, 110);
         
-        System.out.println("Panjang penggaris Deku :"+ deku.getLength());
-        System.out.println("Panjang penggaris Yagi :"+ yagi.getLength());
+        System.out.println("Tinggi badan Deku : "+ deku.getLength());
+        System.out.println("Tinggi badan Yagi : "+ yagi.getLength());
         
         if (deku.isGreater(deku, yagi)){
-            System.out.println("Penggaris Deku lebih panjang dari Yagi");}
+            System.out.println("Tinggi badan Deku lebih tinggi dari Yagi");}
         else if (deku.isLess(deku, yagi)){
-            System.out.println("Penggaris Deku lebih pendek dari Yagi");}
+            System.out.println("Tinggi badan Deku lebih pendek dari Yagi");}
         else if (deku.isEqual(deku, yagi)){
-            System.out.println("Penggaris Deku sama panjang dengan Yagi");}
+            System.out.println("Tinggi badan Deku sama panjang dengan Yagi");}
         }
     }
         
