@@ -26,3 +26,9 @@ LATIHAN 3
 
 Output
 ![Output Lthn 3](https://user-images.githubusercontent.com/85090045/120888677-d420b380-c623-11eb-86ca-ef95dbf783ef.png)
+
+
+LATIHAN 4
+
+Output
+![Output Lthn 4](https://user-images.githubusercontent.com/85090045/120889477-99b91580-c627-11eb-99c2-c0ab22baa06d.png)
