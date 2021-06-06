@@ -31,7 +31,6 @@ class OperasiPenjumlahan extends OperasiBilanganAbs{
     
     @Override
     protected  void tampil(){
-    this.tampil();
     }
     
     
